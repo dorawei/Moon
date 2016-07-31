@@ -6,6 +6,7 @@ categories:
 tags:
 - yahoo
 - internet
+layout: post
 ---
 
 > Submit Your Site
